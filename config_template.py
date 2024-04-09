@@ -26,7 +26,8 @@ configObject = {
                     "id":"total_employed",
                 },
                 {
-                    "id":"total_employed",
+                    "id":"total_employed!",
+                    
                 },
             ]
         },
