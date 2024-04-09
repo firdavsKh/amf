@@ -20,13 +20,14 @@ configObject = {
                             "attr_type":"region",
                             "attr_value":"boxtar",
                         }
-                    ]
+                    ] 
                 },
                 {
                     "id":"total_employed",
                 },
                 {
-                    "id":"total_employed",
+                    "id":"total_employed!",
+                    
                 },
             ]
         },
