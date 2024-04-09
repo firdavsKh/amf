@@ -1,0 +1,11 @@
+{
+    "email_host": "imap.gmail.com",
+    "login": "statnbtomor@gmail.com",
+    "password": "bgtz nzlo nuht iwhn",
+    "start_date": "2024-01-01", 
+    "allowed_file_formats": [
+        "application/vnd.ms-excel",
+        "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "text/csv"
+    ]
+}
