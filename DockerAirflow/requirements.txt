@@ -1,0 +1,5 @@
+airflow-clickhouse-plugin==1.1.0
+clickhouse_connect
+apache-airflow-providers-http
+clickhouse-driver
+airflow-providers-clickhouse 
