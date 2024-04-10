@@ -5,7 +5,7 @@ CREATE TABLE tbl_fileupload (
   email_date DATE,
   uploaded_date DATE,
   email_from VARCHAR(255),
-  status INT,
+  upload_status INT,
   chanel INT,
   file_name VARCHAR(100),
   file_dir VARCHAR(255),
